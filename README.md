@@ -3,7 +3,7 @@
 ## add google page translator professionally 
 
 ### you can use this code 
-<code>
+
 <div class="select-container select-container-sm" id="google_translate_element"></div>
 <script type="text/javascript">
   function googleTranslateElementInit() {
@@ -34,7 +34,7 @@ body {
     top: 0px!important
 }
 </style>
-</code> 
+ 
 
 ![image](https://user-images.githubusercontent.com/70555095/152641408-f72b3933-b01b-42f1-b8cd-d6751803a6a4.png)
 
